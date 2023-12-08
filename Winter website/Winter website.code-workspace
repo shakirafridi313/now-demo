@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Template/sidebarmenu"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Winter website"
+	}
+}
